@@ -9,8 +9,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * or report an issue here.
 
 ## Tutorials
-* [Real-Time Bidding based Display Advertising: Mechanisms and Algorithms](http://tutorial.computational-advertising.org/) by Jun Wang, Shuai Yuan and Weinan Zhang. ECIR 2016.
-* [Real-Time Bidding: A New Frontier of Computational Advertising Research](http://tutorial-wsdm-2015.computational-advertising.org/) by Shuai Yuan and Jun Wang. WSDM 2015.
+- [x] [Real-Time Bidding based Display Advertising: Mechanisms and Algorithms](http://tutorial.computational-advertising.org/) by Jun Wang, Shuai Yuan and Weinan Zhang. ECIR 2016.
+- [x] [Real-Time Bidding: A New Frontier of Computational Advertising Research](http://tutorial-wsdm-2015.computational-advertising.org/) by Shuai Yuan and Jun Wang. WSDM 2015.
 * [Research Frontier of Real-Time Bidding based Display Advertising](http://wnzhang.net/slides/rtb-frontier-2015.pdf) by Weinan Zhang. Beijing 2015.
 
 ## Review Papers
@@ -35,7 +35,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Scalable Hands-Free Transfer Learning for Online Advertising](http://wnzhang.net/share/rtb-papers/transfer-ctr.pdf) by Brian Dalessandro et al. KDD 2014. 
 * [Evaluating and Optimizing Online Advertising: Forget the click, but there are good proxies](http://wnzhang.net/share/rtb-papers/forget-click.pdf) by Brian Dalessandro et al. SSRN 2012.
 * [Modeling Delayed Feedback in Display Advertising](http://wnzhang.net/share/rtb-papers/delayed-feedback.pdf) by Olivier Chapelle. KDD 2014.
-* [Ad Click Prediction: a View from the Trenches](https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf) by H. Brendan McMahan. KDD 2013.
+- [x] [Ad Click Prediction: a View from the Trenches](https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf) by H. Brendan McMahan. KDD 2013.
 * [Practical Lessons from Predicting Clicks on Ads at Facebook](http://wnzhang.net/share/rtb-papers/fb-ad-ctr.pdf) by Xinran He et al. ADKDD 2014.
 
 ### Bid Landscape
